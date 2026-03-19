@@ -33,8 +33,6 @@ By applying Lasso regularization, we successfully reduced the feature space—re
 ### Cost-Sensitive Thresholds
 In credit scoring, the cost of lending to a "Bad" client is significantly higher than the cost of rejecting a "Good" one. This project includes a threshold analysis demonstrating how shifting the classification cutoff from the default 0.5 can optimize for risk detection (Recall) at the expense of overall accuracy.
 
-## 🎓 Academic Context
-This project was developed at the **IT University of Copenhagen** for the *Advanced Applied Statistics* course. It draws theoretical inspiration from *Computer Age Statistical Inference* (Efron & Hastie, 2016).
 
 ---
 **Authors:** Francisco Oliveira, António Santos, Vincenzo Sabino, Tibor Szolomaier
