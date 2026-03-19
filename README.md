@@ -35,4 +35,4 @@ In credit scoring, the cost of lending to a "Bad" client is significantly higher
 
 
 ---
-**Authors:** Francisco Oliveira, António Santos, Vincenzo Sabino, Tibor Szolomaier
+**Authors:** Francisco Oliveira, António Santos, Vincenzo Sabino, Tibor Szolomaier, Henrique Aleixo
